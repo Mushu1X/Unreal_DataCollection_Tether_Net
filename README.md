@@ -2,8 +2,7 @@
 This project integrates Unreal Engine with a TCP Python plugin to send pose data (Position and Orientation), render target debris, and capture images based on the simulation.
 
 **Features**
-
-TCP communication between Python and Unreal Engine
+  - TCP communication between Python and Unreal Engine
   - Real-time pose data transmission
   - Dynamic target rendering in Unreal Engine
   - Automated image capture and saving
