@@ -13,3 +13,5 @@ This project integrates Unreal Engine with a TCP Python plugin to send pose data
   - TCP Python plugin for Unreal Engine
 
 **Sample Images**
+
+1. Image_1.png
