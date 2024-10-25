@@ -14,4 +14,4 @@ This project integrates Unreal Engine with a TCP Python plugin to send pose data
 
 **Sample Images**
 
-1. Image_1.png
+1. ![Image_1.png](https://github.com/Mushu1X/Unreal_DataCollection_Tether_Net/blob/main/Image_1.png)
